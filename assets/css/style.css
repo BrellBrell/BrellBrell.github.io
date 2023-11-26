@@ -154,6 +154,7 @@ p {
 
 .gameCenterDisplay {
     display: block;
+    border-radius: 10px
     text-align: center;
 }
 
