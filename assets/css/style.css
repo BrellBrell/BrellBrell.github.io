@@ -152,10 +152,6 @@ p {
     cursor: pointer;
 }
 
-canvas {
-    border-radius: 10px
-}
-
 .gameCenterDisplay {
     display: block;
     text-align: center;
